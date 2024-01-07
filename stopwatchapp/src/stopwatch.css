@@ -1,0 +1,46 @@
+.stopwatch-container {
+   text-align: center;
+   margin: 50px auto;
+ }
+ 
+ .time {
+   font-size: 7em;
+   font-weight: bold;
+   font-family: sans-serif;
+   
+   margin-bottom: 20px;
+ }
+ .Start-time{
+ padding:59px 50px;
+ margin: 15px;
+border: none;
+font-size: 1em;
+font-weight: bold;
+color: white;
+background-color:rgb(43, 239, 8);
+cursor: pointer;
+border-radius: 110px;
+}
+.Start-time:hover{
+   background-color: rgb(103, 245, 90);
+   color: black;
+}
+.Reset-time{
+padding: 60px 50px;
+margin: 15px;
+border: none;
+font-size: 0.9em;
+font-weight: bold;
+color:white;
+background-color: rgb(251, 4, 4);
+cursor: pointer;
+border-radius: 110px;
+}
+.Reset-time:hover{
+  background-color: rgb(242, 97, 97);
+  color: black;
+}
+
+
+
+
